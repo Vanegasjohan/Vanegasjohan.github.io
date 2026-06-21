@@ -56,10 +56,4 @@ export const SOCIALS = [
         icon: "linkedin-fill",
         show: true
     },
-    {
-        name: "Instagram",
-        url: "https://www.instagram.com/johanvanegas.dev",
-        icon: "instagram-fill",
-        show: true
-    }
 ]

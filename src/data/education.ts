@@ -11,8 +11,8 @@ interface Education {
 const  education: Education[] = [
     {
         title: "Tecnólogo en Análisis y Desarrollo de Software",
-        startDate: "2022-01-01",
-        endDate: "2025-10-13",
+        startDate: "2023-01-01",
+        endDate: "2025-01-01",
         school: "SENA",
         location: "Colombia",
         description: "Formación integral en análisis, diseño, desarrollo e implementación de soluciones de software.",
@@ -29,8 +29,8 @@ const  education: Education[] = [
     },
     {
         title: "Bases de Datos: Generalidades y Sistemas de Gestión",
-        startDate: "2025-09-01",
-        endDate: "2025-09-30",
+        startDate: "2025-01-01",
+        endDate: "2025-01-01",
         school: "SENA",
         location: "Colombia",
         description: "Curso complementario de 40 horas sobre fundamentos de bases de datos y sistemas de gestión.",

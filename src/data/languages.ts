@@ -14,8 +14,8 @@ const languages: Language[] = [
     },
     {
         name: "English",
-        level: "B1",
-        description: "Nivel intermedio - comprensión y comunicación básica",
+        level: "A2",
+        description: "Nivel básico - comprensión y comunicación elemental",
         show: true
     }
 ];

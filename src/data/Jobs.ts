@@ -45,8 +45,8 @@ interface WorkExperience {
 const workExperience:WorkExperience[] = [
     {
         title: "Auxiliar de Sistemas",
-        startDate: "2024-01-01",
-        endDate: "2024-06-30",
+        startDate: "2025-03-20",
+        endDate: "2025-09-20",
         company: "Calidad Médica",
         location: "Valledupar, Colombia",
         description: "Administración y actualización de bases de datos en SQL Server. Desarrollo y optimización de consultas SQL para la gestión de información.",
