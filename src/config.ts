@@ -1,79 +1,65 @@
 export const SITE = {
-    website: "https://simple-portfolio.vicbox.dev", // replace this with your deployed domain
-    title: "Simple Portfolio",
-    description: "A simple but beautiful portfolio created with Astro",
-    tags: ["portfolio", "Resume cv", "Astro"],
+    website: "https://Vanegasjohan.github.io",
+    title: "Johan Vanegas - Portfolio",
+    description: "Portafolio profesional de Johan Vanegas, Tecnólogo en Análisis y Desarrollo de Software",
+    tags: ["portfolio", "Resume cv", "Astro", "Software Developer"],
     ogImage: "/og-image.webp",
     logo: "logo",
     logoText: "Portfolio",
-    lang: "en",
+    lang: "es",
     favicon: "/favicon.png",
-    repository: "https://github.com/vito8916/simple-portfolio.git",
-    author: "Victor Alvarado",
-    profile: "https://victoralvarado.dev/",
+    repository: "https://github.com/Vanegasjohan/Vanegasjohan.github.io.git",
+    author: "Johan Leonardo Vanegas Lozano",
+    profile: "https://Vanegasjohan.github.io/",
 }
 
 export const ME = {
-    name: "VicBox Dot Dev",
-    profession: "Software Engineer | Full Stack Developer",
+    name: "Johan Leonardo Vanegas Lozano",
+    profession: "Tecnólogo en Análisis y Desarrollo de Software | Full Stack Developer",
     profileImage: "pp2.png",
     profileFacts: [
         {
-            value: 10,
-            description: "Years of Experience"
+            value: 6,
+            description: "Meses de Experiencia Laboral"
         },
         {
             value: 5,
-            description: "Completed Projects"
+            description: "Proyectos Realizados"
         },
         {
-            value: 4,
-            description: "Satisfied Clients"
+            value: 3,
+            description: "Tecnologías Domina"
         }
     ],
     contactInfo: {
-        email: "vicbox.dev@vicbox.dev",
-        linkedin: "https://www.linkedin.com/in/victor-alvaradohn",
+        email: "johanvanegas.dev@gmail.com",
+        linkedin: "https://www.linkedin.com/in/johan-vanegas",
         resumeDoc: "resume.pdf",
     },
-    aboutMe: "I am a software engineer with a passion for web development. I have experience in building web " + "applications using modern technologies. I am a self-taught developer who enjoys learning new things and " + "sharing knowledge with others.",
+    aboutMe: "Tecnólogo en Análisis y Desarrollo de Software con conocimientos en desarrollo Full Stack, " +
+        "enfocado principalmente en Backend. Experiencia en administración de bases de datos SQL Server, " +
+        "desarrollo de aplicaciones web y análisis de información mediante Power BI. Manejo tecnologías " +
+        "como C# .NET, Python, JavaScript, Node.js, React, Astro, HTML5 y CSS3. Me caracterizo por ser " +
+        "una persona responsable, analítica, proactiva y orientada al cumplimiento de objetivos.",
 }
 
 export const SOCIALS = [
     {
-        name: "Twitter",
-        url: "https://twitter.com/vicbox.dev",
-        icon: "twitter-x-fill",
+        name: "GitHub",
+        url: "https://github.com/Vanegasjohan",
+        icon: "github-fill",
         show: true
     },
     {
-        name: "Facebook",
-        url: "https://www.facebook.com/vicbox.dev",
-        icon: "facebook-fill",
-        show: false
+        name: "LinkedIn",
+        url: "https://www.linkedin.com/in/johan-vanegas",
+        icon: "linkedin-fill",
+        show: true
     },
     {
         name: "Instagram",
-        url: "https://www.instagram.com/vicbox.dev",
+        url: "https://www.instagram.com/johanvanegas.dev",
         icon: "instagram-fill",
-        show: true
-    },
-    {
-        name: "Youtube",
-        url: "https://www.youtube.com/vicbox.dev",
-        icon: "youtube-fill",
-        show: true
-    },
-    {
-        name: "TikTok",
-        url: "https://tiktok.com/vicbox.dev",
-        icon: "tik-fill",
-        show: false
-    },
-    {
-        name: "GitHub",
-        url: "https://github.com/vicbox.dev",
-        icon: "github-fill",
         show: true
     }
 ]
