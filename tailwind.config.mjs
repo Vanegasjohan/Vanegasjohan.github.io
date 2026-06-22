@@ -21,20 +21,27 @@ export default {
     		},
 			colors: {
 				// Light mode colors
-				'light-theme': '#E9EBEC',
-				'primary-light': '#FBD144',
-				'primary-hover-light': '#FFE071',
+				'light-theme': '#F1F5F9',
+				'primary-light': '#2563EB',
+				'primary-hover-light': '#3B82F6',
 
 				// Dark mode colors
-				'dark-theme': '#0C151D',
-				'primary-dark': '#FFE071',
-				'primary-hover-dark': '#FBD144',
+				'dark-theme': '#0B1120',
+				'primary-dark': '#2563EB',
+				'primary-hover-dark': '#3B82F6',
+
+				// Accent
+				'accent': '#06B6D4',
+				'accent-hover': '#22D3EE',
+
+				// Secondary
+				'secondary': '#1E3A8A',
 
 				// Neutrals
-				'n200': '#d7d9da',
-				'n900': '#222222',
-				'n700': '#171F26',
-				'n500': '#555555',
+				'n200': '#CBD5E1',
+				'n900': '#0B1120',
+				'n700': '#1E293B',
+				'n500': '#64748B',
 			},
     	}
     },

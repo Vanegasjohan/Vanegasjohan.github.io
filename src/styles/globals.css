@@ -22,7 +22,7 @@ main {
     --tw-prose-blockquote: theme('colors.n500');
     --tw-prose-figcaption: theme('colors.n500');
     --tw-prose-strong: theme('colors.n700');
-    --tw-prose-code: theme('colors.n700');
+    --tw-prose-code: theme('colors.primary-light');
     --tw-prose-ol: theme('colors.n700');
     --tw-prose-ul: theme('colors.n700');
     --tw-prose-li-marker: theme('colors.n500');
@@ -36,12 +36,12 @@ main {
         color: theme('colors.n200');
         --tw-prose-headings: theme('colors.light-theme');
         --tw-prose-p: theme('colors.light-theme');
-        --tw-prose-a: theme('colors.primary-dark');
-        --tw-prose-a-hover: theme('colors.primary-hover-dark');
+        --tw-prose-a: theme('colors.accent');
+        --tw-prose-a-hover: theme('colors.accent-hover');
         --tw-prose-blockquote: theme('colors.n500');
         --tw-prose-figcaption: theme('colors.light-theme');
         --tw-prose-strong: theme('colors.light-theme');
-        --tw-prose-code: theme('colors.light-theme');
+        --tw-prose-code: theme('colors.accent');
         --tw-prose-ol: theme('colors.light-theme');
         --tw-prose-ul: theme('colors.light-theme');
         --tw-prose-li-marker: theme('colors.n500');
