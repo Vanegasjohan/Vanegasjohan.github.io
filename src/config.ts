@@ -33,7 +33,7 @@ export const ME = {
     ],
     contactInfo: {
         email: "johanvanegas.dev@gmail.com",
-        linkedin: "https://www.linkedin.com/in/johan-vanegas",
+        linkedin: "https://www.linkedin.com/in/johan-vanegas-8766b527b",
         resumeDoc: "resume.pdf",
     },
     aboutMe: "Tecnólogo en Análisis y Desarrollo de Software con conocimientos en desarrollo Full Stack, " +
@@ -52,7 +52,7 @@ export const SOCIALS = [
     },
     {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/johan-vanegas",
+        url: "https://www.linkedin.com/in/johan-vanegas-8766b527b",
         icon: "linkedin-fill",
         show: true
     },
